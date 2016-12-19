@@ -13,6 +13,7 @@ class AppDelegate: UIResponder {
 
     var window: UIWindow?
     
+    
     // MARK: - private methods
     fileprivate func initAddons() {
         
